@@ -1,6 +1,6 @@
 {
   "name": "syzoj-public-cdn",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Load resources used by SYZOJ with jsDelivr",
   "main": "index.js",
   "repository": "https://github.com/syzoj/syzoj-public-cdn",
